@@ -1,22 +1,22 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
 ## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
+We pledge to make participation a harassment-free experience.
 
 ## Our Standards
-Examples of behavior that contributes to a positive environment include using welcoming language and being respectful of differing viewpoints.
+Examples of positive behavior include using welcoming language.
 
 ## Enforcement Responsibilities
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior.
+Community leaders are responsible for enforcing standards.
 
 ## Scope
-This Code of Conduct applies within all community spaces.
+This Code of Conduct applies in all spaces.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders.
+Abusive behavior may be reported.
 
 ## Enforcement Guidelines
-Community leaders will follow these Enforcement Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
+Leaders will follow these guidelines.
 
 ## Attribution
-This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
+Adapted from Contributor Covenant 2.0.
